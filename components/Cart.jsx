@@ -58,6 +58,7 @@ function Cart() {
   return (
     <div className="cart">
       <h1>Shopping Cart</h1>
+      <hr />
       <div className='heading'>
         <h4 className='title'>Product Name & Details</h4>
         <h4 className='pri'>Price</h4>
